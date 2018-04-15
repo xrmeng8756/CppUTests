@@ -1,0 +1,3 @@
+G:/GitHub/test/CppUTests/build/CMakeFiles/Hello.dir
+G:/GitHub/test/CppUTests/build/CMakeFiles/ALL_BUILD.dir
+G:/GitHub/test/CppUTests/build/CMakeFiles/ZERO_CHECK.dir

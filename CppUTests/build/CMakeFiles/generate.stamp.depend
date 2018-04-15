@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+G:/GitHub/test/CppUTests/CMakeLists.txt
+G:/GitHub/test/CppUTests/build/CMakeFiles/3.11.0/CMakeSystem.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/CMakeSystemSpecificInitialize.cmake
+G:/GitHub/test/CppUTests/build/CMakeFiles/3.11.0/CMakeCCompiler.cmake
+G:/GitHub/test/CppUTests/build/CMakeFiles/3.11.0/CMakeCXXCompiler.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/CMakeSystemSpecificInformation.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/CMakeGenericSystem.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/CMakeInitializeConfigs.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/Platform/Windows.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/Platform/WindowsPaths.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/CMakeCInformation.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/CMakeLanguageInformation.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/Platform/Windows-MSVC-C.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/Platform/Windows-MSVC.cmake
+G:/GitHub/test/CppUTests/build/CMakeFiles/3.11.0/CMakeRCCompiler.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/CMakeRCInformation.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/CMakeCommonLanguageInclude.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/CMakeCXXInformation.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/CMakeLanguageInformation.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/Compiler/MSVC-CXX.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/Platform/Windows-MSVC.cmake
+D:/cmake-3.11.0-win64-x64/share/cmake-3.11/Modules/CMakeCommonLanguageInclude.cmake
