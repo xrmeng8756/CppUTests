@@ -1,4 +1,4 @@
-# Install script for directory: G:/GitHub/test/CppUTests
+# Install script for directory: G:/GitHub/test/CppUTests/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

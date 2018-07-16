@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="G:\GitHub\test\CppUTests\hello.cpp">
+    <ClCompile Include="G:\GitHub\test\CppUTests\src\hello.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="G:\GitHub\test\CppUTests\calculator.c">
+    <ClCompile Include="G:\GitHub\test\CppUTests\src\calculator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="G:\GitHub\test\CppUTests\hello_test.cpp">
+    <ClCompile Include="G:\GitHub\test\CppUTests\src\hello_test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="G:\GitHub\test\CppUTests\calculator.h">
+    <ClInclude Include="G:\GitHub\test\CppUTests\src\calculator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="G:\GitHub\test\CppUTests\CMakeLists.txt" />
+    <CustomBuild Include="G:\GitHub\test\CppUTests\src\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
