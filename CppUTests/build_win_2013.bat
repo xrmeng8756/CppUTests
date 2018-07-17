@@ -1,3 +1,5 @@
+@echo off
+
 IF not Exist build goto create_build_folder
 
 ::clear build output folder
@@ -14,7 +16,7 @@ mkdir build
 
 ::cmake generate vc project
 cd build
-start /B /WAIT D:\cmake-3.11.0-win64-x64\bin\cmake.exe ..\src
+start /B /WAIT D:\cmake-3.11.0-win64-x64\bin\cmake.exe -G "Visual Studio 12 2013" "-DDEBUG_2013 = ON" "..\src"
 
 ::build project
 start /B /WAIT D:\cmake-3.11.0-win64-x64\bin\cmake.exe --build .
